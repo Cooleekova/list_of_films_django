@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\single_page_website\settings.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
