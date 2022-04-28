@@ -37,4 +37,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: 'list-of-films-django'
           heroku_email: ${{secrets.HEROKU_EMAIL}}
-          env_file: ".env"
